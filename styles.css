@@ -1,4 +1,37 @@
-* {
-    box-sizing: border-box;
+ .p1 {
+    color: yellow;
 }
 
+.p2 {
+    color: greenyellow;
+}
+
+html {
+    background-color: gray;
+}
+
+#h1 {
+    background-color: pink;
+    color: white;
+    border: dotted white;
+}
+
+.li {
+    color: rgb(154, 154, 207);
+    
+}
+
+.border1 {
+   border: orange groove 10px;
+   background-color: white;
+}
+
+.p3 {
+    color: white;
+}
+
+img {
+    border: solid 20px;
+    padding: 20px;
+    background-color: aliceblue;
+}
