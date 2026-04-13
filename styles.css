@@ -6,7 +6,7 @@
     color: greenyellow;
 }
 
-html {
+body {
     background-color: gray;
 }
 
@@ -24,14 +24,22 @@ html {
 .border1 {
    border: orange groove 10px;
    background-color: white;
+   height: 100px;
 }
 
 .p3 {
     color: white;
+    margin-inline: 
+    ;
 }
 
 img {
     border: solid 20px;
     padding: 20px;
     background-color: aliceblue;
+}
+
+
+.spacing-list {
+    display: inline;
 }
